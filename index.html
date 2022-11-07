@@ -14,6 +14,15 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
+  <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
+</script>
+<script type="text/javascript">
+   (function(){
+      emailjs.init("bAiYvvVrERFZ0CEdT");
+   })();
+</script>
+
 </head>
 <body>
 
@@ -161,11 +170,11 @@
 		</div>
 
 		<div class="contact-form">
-			<form action="">
-				<input type="name" placeholder="Your Name" required>
-				<input type="email" placeholder="Your Email Address" required>
-				<input type="" placeholder="Your Mobile Number" required>
-				<textarea name="" id="" cols="35" rows="10" placeholder="How Can I Help You" required></textarea>
+			<form action="" >
+				<input type="name" placeholder="Your Name"  id="name" required>
+				<input type="email" placeholder="Your Email Address" id="email" required>
+				<input type="" placeholder="Your Mobile Number" id="num" required>
+				<textarea name="" id="message" cols="35" rows="10" placeholder="How Can I Help You" required></textarea>
 				<input type="submit" value="Send Message" class="submit" required>
 			</form>
 		</div>
@@ -184,6 +193,8 @@
 
 	<!---custom js link--->
 	<script type="text/javascript" src="js/script.js"></script>
+
+	
 
 </body>
 </html>

@@ -15,3 +15,11 @@ window.onscroll = () => {
 	menu.classList.remove('bx-x');
 	navlist.classList.remove('open');
 };
+
+function sendMail(){
+	var params={
+		name: document.getElementById("name").value,
+		email:document.getElementById("email").value,
+		message:document.getElementById("message").value,
+	}
+}
