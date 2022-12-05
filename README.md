@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Venkataraju Nesha</h1>
 <h3 align="center">Full Stack Developer </h3>
+<h3 align="center">Blockchain Developer </h3>
 
 Let's see My online Presence https://nvenkataraju.github.io/nvenkataraju/
 
