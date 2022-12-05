@@ -1,7 +1,7 @@
-![Career-Page-Banner_Full-Stack-Developer](https://user-images.githubusercontent.com/116741320/200106718-0839db5a-5483-4282-a93c-7074c0a359ff.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Venkataraju Nesha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Developer </h3>
 
 Let's see My online Presence https://nvenkataraju.github.io/nvenkataraju/
 
