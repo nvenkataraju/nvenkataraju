@@ -16,6 +16,13 @@ window.onscroll = () => {
 	navlist.classList.remove('open');
 };
 
+var typed=new Typed('.auto-type',{
+	strings:["","Freelancer.","MERN Stack Developer.","Blockchain Enthusiastic.","React Native Developer."],
+	typeSpeed:150,
+	backSpeed:150,
+	loop:true
+})
+
 function sendMail(){
 	var params={
 		name: document.getElementById("name").value,
