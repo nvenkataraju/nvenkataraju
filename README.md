@@ -61,13 +61,13 @@ Senior Full Stack Engineer specializing in building scalable, high-performance w
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nvenkataraju&show_icons=true&theme=radical)
 
 ---
 
 ## 🧠 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvenkataraju&layout=compact&theme=radical)
 
 ---
 
