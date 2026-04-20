@@ -15,16 +15,16 @@ Senior Full Stack Engineer specializing in building scalable, high-performance w
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 ---
 
 ### ⚙️ Backend
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -34,28 +34,6 @@ Senior Full Stack Engineer specializing in building scalable, high-performance w
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 🧠 Core Expertise
-
-- Full Stack Development (Frontend + Backend)
-- System Design (HLD & LLD)
-- RESTful API Design & Microservices
-- Database Design & Optimization
-- Authentication & Security (JWT, OAuth)
-- Performance Optimization & Scalability
-- CI/CD Pipelines & DevOps
-
----
-
-## 🏗️ Architecture Approach
-
-- **Frontend**: Component-based architecture, SSR & SSG with Next.js
-- **Backend**: Stateless services, scalable APIs, async processing
-- **Databases**: SQL & NoSQL based on use-case
-- **Caching**: Redis for high-performance systems
-- **Scalability**: Load balancing & horizontal scaling
 
 ---
 
@@ -73,9 +51,8 @@ Senior Full Stack Engineer specializing in building scalable, high-performance w
 
 ## 📫 Connect
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: your@email.com
+- GitHub: https://github.com/nvenkataraju
+- Email: nvrcode23@gmail.com
 
 ---
 
